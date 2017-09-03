@@ -5,9 +5,9 @@ description: Prophesized by The Oracle to be The One, Thomas A. Anderson freed h
 # For best results, choose a color that has a color ratio of at least 3.5
 # against white. Otherwise, all text etc is set to black to preserve readability
 # @link http://leaverou.github.io/contrast-ratio/
-theme: '#0074D9'
+theme: '#ff74D9'
 # of work experiences to show
-jobs: 3
+jobs: 5
 # of educational experiences to show
 schools: 1
 # show 'References available' link in footer
